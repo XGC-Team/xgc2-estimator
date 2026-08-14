@@ -1,0 +1,8 @@
+[submodule "hover-thrust"]
+	path = hover-thrust
+	url = git@github.com:XGC-Team/xgc2-estimator-hover-thrust.git
+	branch = noetic
+[submodule "rigid-state"]
+	path = rigid-state
+	url = git@github.com:XGC-Team/xgc2-estimator-rigid-state.git
+	branch = noetic
